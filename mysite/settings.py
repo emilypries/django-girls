@@ -25,7 +25,7 @@ SECRET_KEY = 'xxfv&&pqn3g2@8zo(xdgn3-c*warxh6mg*%9snktnb6+6q*i_p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'mspries.pythonanywhere.com']
 
 
 # Application definition
