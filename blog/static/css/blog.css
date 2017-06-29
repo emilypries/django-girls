@@ -1,0 +1,21 @@
+h1 {
+    color: #716B8C;
+    font-family: 'Lobster';
+}
+body {
+    background-color: #F0D0FF;
+}
+.content {
+	margin-left: 40px;
+}
+.page-header {
+    background-color: #716B8C;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+#title {
+    color: #F0D0FF;
+}
+a {
+	color: inherit;
+}
